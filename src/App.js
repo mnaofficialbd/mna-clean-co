@@ -1,9 +1,10 @@
 import './App.css';
+import Navbar from './Components/Navbar';
 
 function App() {
   return (
     <div>
-      <h2 className='text-primary'>MNA Clean Co</h2>
+      <Navbar/>
     </div>
   );
 }
