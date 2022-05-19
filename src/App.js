@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      <h2>MNA Clean Co</h2>
+      <h2 className='text-primary'>MNA Clean Co</h2>
     </div>
   );
 }
